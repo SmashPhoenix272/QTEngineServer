@@ -23,7 +23,7 @@ QTEngine Translation Server is a specialized translation API that focuses on tra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/QTEngineServer.git
+git clone https://github.com/SmashPhoenix272/QTEngineServer.git
 cd QTEngineServer
 ```
 
